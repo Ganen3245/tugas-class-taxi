@@ -1,0 +1,14 @@
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.exe.config
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.exe
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.pdb
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.csproj.AssemblyReference.cache
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.csproj.CoreCompileInputs.cache
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.exe
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuak ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.pdb
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.exe.config
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.exe
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.pdb
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.csproj.AssemblyReference.cache
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.csproj.CoreCompileInputs.cache
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.exe
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-3\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.pdb
